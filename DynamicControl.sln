@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicControl", "DynamicControl\DynamicControl.csproj", "{C3FFEBC5-A154-46B7-9AC5-A240C2B251BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicControlCommon", "DynamicControlCommon\DynamicControlCommon.csproj", "{FF92DD71-2C7B-4023-B362-36C8C0F11E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControl1", "UserControl1\UserControl1.csproj", "{3AEEBF15-B1DB-40B8-94AF-AEBEAD75624A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControl2", "UserControl2\UserControl2.csproj", "{1DC1AE4B-FEEA-410E-BBD8-E91907BE15F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FFEBC5-A154-46B7-9AC5-A240C2B251BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FFEBC5-A154-46B7-9AC5-A240C2B251BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FFEBC5-A154-46B7-9AC5-A240C2B251BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FFEBC5-A154-46B7-9AC5-A240C2B251BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF92DD71-2C7B-4023-B362-36C8C0F11E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92DD71-2C7B-4023-B362-36C8C0F11E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF92DD71-2C7B-4023-B362-36C8C0F11E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF92DD71-2C7B-4023-B362-36C8C0F11E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEEBF15-B1DB-40B8-94AF-AEBEAD75624A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEEBF15-B1DB-40B8-94AF-AEBEAD75624A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEEBF15-B1DB-40B8-94AF-AEBEAD75624A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEEBF15-B1DB-40B8-94AF-AEBEAD75624A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC1AE4B-FEEA-410E-BBD8-E91907BE15F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC1AE4B-FEEA-410E-BBD8-E91907BE15F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC1AE4B-FEEA-410E-BBD8-E91907BE15F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC1AE4B-FEEA-410E-BBD8-E91907BE15F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
